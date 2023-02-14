@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 batatinha
+=======
+Funcionalidade de perfil
+>>>>>>> guti
